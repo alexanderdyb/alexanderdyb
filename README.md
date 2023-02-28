@@ -4,7 +4,7 @@
 **alexanderdyb/alexanderdyb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-- 🔭 I’m currently working as an Consultant. 
+- 🔭 I’m currently working as an consultant. 
 - 🌱 ... and learning as much as I can about frontend development.
 
 ## About me
