@@ -14,3 +14,11 @@ Hello there, my name is Alexander and I am a consultant who specializes in marke
 I am fortunate to call the picturesque coastal town of Ålesund in Norway my home, where I enjoy the breathtaking views and outdoor activities the region has to offer. In my free time, I like to work out, travel, and try out new restaurants.
 
 Thank you for taking the time to learn a bit about me. 
+
+## Skills
+
+- HTML
+- CSS
+- JavaScript
+- WordPress
+- Umbraco
