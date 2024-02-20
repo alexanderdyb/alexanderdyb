@@ -17,8 +17,6 @@ Thank you for taking the time to learn a bit about me.
 
 ## Skills
 
-- HTML
-- CSS
+- React
 - JavaScript
-- WordPress
-- Umbraco
+- Tailwind CSS
